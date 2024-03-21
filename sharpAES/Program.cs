@@ -11,7 +11,8 @@ namespace sharpAes
 
         SharpAes() 
         {
-            Console.WriteLine("sharpAES v0.1");
+            Console.WriteLine("sharpAES v0.1");//needs to be updated EVERY VERSION.
+            Console.WriteLine("Alex Snell, 2024");//must be updated on the first update of each calendar year.
             plaintext = GetPlainText();
             level = GetLevel();
 
