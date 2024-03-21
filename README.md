@@ -1,5 +1,7 @@
 # SharpAES
 
+# THIS IS A BIT OF FUN AND PROBABLY NOT SECURE- DO NOT USE THIS TO ACTUALLY ENCRYPT DATA YOU CARE ABOUT.
+
 ## This is a program that I made to be less bored. There might be bugs and fixes will probably not be very quick.
 
 This program will, hopefully, let you encrypt some text using AES.
